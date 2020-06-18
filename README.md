@@ -10,3 +10,16 @@ The student management system application will help in managing the student’s 
 such system. It will also help in saving time and effort. It also helps to store, manage, and distribute this information.
 Right from maintaining and updating student’s data with proficiency to analysing and creating the reports, the “Student Management System”
 has been proved to be very helpful. It stands helpful to make the work easier for both the faculties as well as the students.
+
+Benefits of Student Management System:
+	Maximal organization with minimal paper work
+	Student record maintenance
+	Online fee payment
+	Better communication
+	Simplifying and Streamlining all tasks
+	Easy access to all
+	Complete tracking of students
+	Helps build a strong alumnus
+	Improves the general comfort of staffs 
+	Helps saving time and efforts
+
